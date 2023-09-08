@@ -30,3 +30,6 @@ repeat {
         isWin = true
     }
 } while !isWin
+
+
+// готово!
